@@ -1,5 +1,5 @@
 {
-  "name": "herb-ui",
+  "name": "ui-slider",
   "version": "1.0.0",
   "description": "A modal built with react",
   "main": "index.js",
@@ -46,7 +46,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },
-  "npmName": "herb-ui",
+  "npmName": "ui-slider",
   "npmFileMap": [
     {
       "basePath": "/dist/",

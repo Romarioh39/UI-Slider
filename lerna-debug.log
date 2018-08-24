@@ -3,17 +3,17 @@
 1 silly flags   'reject-cycles': false,
 1 silly flags   rejectCycles: false,
 1 silly flags   args: [] }
-2 verbose rootPath /Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM
+2 verbose rootPath /Users/romarioh39/HelioTraining/UI-Slider
 3 info version 2.11.0
-4 silly existsSync /Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM/VERSION
+4 silly existsSync /Users/romarioh39/HelioTraining/UI-Slider/VERSION
 5 error EPACKAGES Errored while collecting packages and package graph
 6 error JSONError: Unexpected token } in JSON at position 470 while parsing near '...e && mkdir dist",  },  "repository": {...' in packages/modal/package.json
-6 error     at module.exports (/Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM/node_modules/parse-json/index.js:26:19)
-6 error     at parse (/Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM/node_modules/lerna/node_modules/load-json-file/index.js:8:29)
-6 error     at Function.module.exports.sync.fp [as sync] (/Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM/node_modules/lerna/node_modules/load-json-file/index.js:11:29)
-6 error     at Function.module.exports.sync (/Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM/node_modules/lerna/node_modules/read-pkg/index.js:40:25)
-6 error     at /Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM/node_modules/lerna/lib/PackageUtilities.js:138:47
+6 error     at module.exports (/Users/romarioh39/HelioTraining/UI-Slider/node_modules/parse-json/index.js:26:19)
+6 error     at parse (/Users/romarioh39/HelioTraining/UI-Slider/node_modules/lerna/node_modules/load-json-file/index.js:8:29)
+6 error     at Function.module.exports.sync.fp [as sync] (/Users/romarioh39/HelioTraining/UI-Slider/node_modules/lerna/node_modules/load-json-file/index.js:11:29)
+6 error     at Function.module.exports.sync (/Users/romarioh39/HelioTraining/UI-Slider/node_modules/lerna/node_modules/read-pkg/index.js:40:25)
+6 error     at /Users/romarioh39/HelioTraining/UI-Slider/node_modules/lerna/lib/PackageUtilities.js:138:47
 6 error     at Array.forEach (<anonymous>)
-6 error     at /Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM/node_modules/lerna/lib/PackageUtilities.js:132:86
+6 error     at /Users/romarioh39/HelioTraining/UI-Slider/node_modules/lerna/lib/PackageUtilities.js:132:86
 6 error     at Array.forEach (<anonymous>)
-6 error     at Function.getPackages (/Users/romarioh39/HelioTraining/UI-Slider/Herb-NPM/node_modules/lerna/lib/PackageUtilities.js:131:22)
+6 error     at Function.getPackages (/Users/romarioh39/HelioTraining/UI-Slider/node_modules/lerna/lib/PackageUtilities.js:131:22)

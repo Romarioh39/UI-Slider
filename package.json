@@ -1,5 +1,5 @@
 {
-  "name": "herb-ui",
+  "name": "ui-slider",
   "version": "1.0.2",
   "description": "Using storybook to demo",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "url": "git+git@github.com:Romarioh39/Herb-NPM.git"
   },
   "keywords": [
-    "herb-ui",
+    "ui-slider",
     "react"
   ],
   "author": "Romario Herbert",
@@ -49,10 +49,13 @@
     "eslint-plugin-jsx-a11y": "5.1.1",
     "eslint-plugin-prettier": "^2.6.2",
     "eslint-plugin-react": "7.4.0",
-    "lerna": "^2.0.0-rc.4",
+    "lerna": "^2.11.0",
     "prettier": "^1.13.7",
     "prop-types": "15.6.2",
     "react": "16.4.1",
     "react-dom": "^16.4.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
   }
 }
